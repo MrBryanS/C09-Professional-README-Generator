@@ -1,9 +1,10 @@
 # Professional README.md Generator 
 
-## Link to recorded run through of the program:
-	
-
 ## Description 
+
+Link to recording: 
+	(https://drive.google.com/uc?id=1a0Pb5yA2AUVC1B_FsFAntfYcU0KIG9z2&export=download)
+
 
 ![GitHub license](https://img.shields.io/badge/License-None-blue) 
 
@@ -15,7 +16,7 @@ Allow user to create a professional README.md by answering questions about their
 
 [Installation](#installation) 
 
-[Usage](#usage) lis
+[Usage](#usage) 
 
 [License](#license) 
 
@@ -50,5 +51,7 @@ Allow user to create a professional README.md by answering questions about their
 
  
 If you have any questions about the repo you can contact me at bryanstauning@gmail.com. 
+
+You can find more of my work at (https://github.com/MrBryanS)
 
 You can find more of my work at (https://github.com/MrBryanS)

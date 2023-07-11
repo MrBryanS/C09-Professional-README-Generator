@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Link to recorded run through of the program:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBryanS/C09-Professional-README-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MrBryanS/C09-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/MrBryanS/C09-Professional-README-Generator#readme"
 }
