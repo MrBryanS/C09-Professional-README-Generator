@@ -5,6 +5,9 @@
 Link to recording: 
 	(https://drive.google.com/uc?id=1a0Pb5yA2AUVC1B_FsFAntfYcU0KIG9z2&export=download)
 
+Link to github repository:
+	(https://github.com/MrBryanS/C09-Professional-README-Generator)	
+
 
 ![GitHub license](https://img.shields.io/badge/License-None-blue) 
 
