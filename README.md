@@ -3,7 +3,7 @@
 ## Description 
 
 Link to recording: 
-	(https://drive.google.com/uc?id=1a0Pb5yA2AUVC1B_FsFAntfYcU0KIG9z2&export=download)
+	<!-- (https://drive.google.com/uc?id=1a0Pb5yA2AUVC1B_FsFAntfYcU0KIG9z2&export=download) -->
 
 Link to github repository:
 	(https://github.com/MrBryanS/C09-Professional-README-Generator)	
@@ -31,7 +31,7 @@ Allow user to create a professional README.md by answering questions about their
  
 ## Install and Run:
 	At Bash terminal prompt enter:
- 		Install: npm init
+ 		Install: npm install
 		Run: node index.js
 	
 ## Usage 

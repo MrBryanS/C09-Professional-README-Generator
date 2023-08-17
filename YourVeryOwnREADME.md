@@ -1,13 +1,13 @@
-# Coffee Grinding Resources 
+# a 
 
 
 ## Description 
 
 
-![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg) 
+![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg) 
 
 
-A resource for those interested in grinding coffee. 
+f 
 
 
 ## Table of Contents 
@@ -33,30 +33,30 @@ A resource for those interested in grinding coffee.
  
 ## Installation 
 
- npm init -y 
+ asdfasdf 
 
  
 ## Usage 
 
- Document the best methods for grinding coffee. 
+ asdfasd 
 
  
 ## License 
 
- This project is licensed under the Apache license. 
+ This project is licensed under the GPL license. 
 
  
 ## Contributing 
 
- Submit your ideas for grinding coffee to projectGrind@coffeeNerds.net 
+ asdfasd 
 
  ## Tests 
 
- None 
+ dsdsd 
 
  ## Questions 
 
  
-If you have any questions about the repo, open an issue or contact me directly at JoeCoffee@coffeeNerds.net. 
-You can find more of my work at [JoeCoffee]() 
+If you have any questions about the repo, open an issue or contact me directly at asd. 
+You can find more of my work at [asda]() 
 
